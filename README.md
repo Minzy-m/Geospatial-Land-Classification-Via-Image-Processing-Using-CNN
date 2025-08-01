@@ -32,7 +32,7 @@ To build a deep learning model that can classify satellite images into different
 
 4.Ensure all image data is stored under the correct path if used
 
-🗂 Dataset UC Merced Land Use Dataset
+🗂 Dataset: UC Merced Land Use Dataset
 
 # 📦 Output Summary
 
